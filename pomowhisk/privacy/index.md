@@ -1,6 +1,7 @@
 ---
 permalink: /pomowhisk/privacy/
 title: Whisk Privacy Policy
+layout: policy
 ---
 
 # Whisk Privacy Policy
